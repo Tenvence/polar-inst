@@ -129,5 +129,6 @@ dmypy.json
 .pyre/
 
 .idea
-./output
-./runs
+output
+runs
+*.DS_Store
